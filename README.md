@@ -1,2 +1,2 @@
-# js-dev-env
+# js-tooling
 Automated javascript development environment
